@@ -128,7 +128,6 @@
                 <li><a href="login.php" method="POST">Log In</a></li>
                 <li><a href="signup.php" method="POST">Sign Up</a></li>
                 <li><a href="bookmenagment.php">Keep Track</a></li>
-                <li><a href="pictureadding.php">Add motiv</a></li>
             </ul>
         </nav>
     </header>
